@@ -13,38 +13,10 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        Under maintenance.
       </p>
-      <h2>A gatsby starter to create documentation websites</h2>
-      <p>
-        This is a fork of{' '}
-        <a href="https://github.com/cvluca/gatsby-starter-markdown">
-          https://github.com/cvluca/gatsby-starter-markdown
-        </a>
-      </p>
+      <h2>This site is under maintenance.</h2>
       <br />
-      <Button.Group size="large">
-        <Button
-          size="large"
-          icon={<TwitterOutlined />}
-          href="https://twitter.com/jannikbuschke"
-          target="_blank"
-        >
-          Twitter
-        </Button>
-        <Button
-          size="large"
-          icon={<GithubOutlined />}
-          href="https://github.com/jannikbuschke/gatsby-antd-docs"
-          target="_blank"
-        >
-          Github
-        </Button>
-
-        <Button type="primary" size="large">
-          <Link to="/docs/template/get-started/introduction">Get Started</Link>
-        </Button>
-      </Button.Group>
     </div>
   )
 }
