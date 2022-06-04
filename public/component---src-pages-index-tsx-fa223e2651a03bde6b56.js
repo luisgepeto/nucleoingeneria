@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_antd_docs=self.webpackChunkgatsby_antd_docs||[]).push([[691],{6738:function(e,n,t){t.r(n);var a=t(7294);n.default=function(){return a.createElement("div",{align:"center",style:{padding:80}},a.createElement("p",{style:{color:"cornflowerblue",fontSize:50,fontWeight:"bold"}},"Under maintenance."),a.createElement("h2",null,"This site is under maintenance."),a.createElement("br",null))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-fa223e2651a03bde6b56.js.map

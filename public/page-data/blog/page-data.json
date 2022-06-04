@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-tsx",
+    "path": "/blog",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/blog/second-blog"},"id":"91b1b809-df0b-523a-8059-a9510d2e0194","excerpt":"Second Blog Previous Blog","frontmatter":{"date":"February 14, 2019","title":"Second Blog"}}},{"node":{"fields":{"slug":"/blog/first-blog"},"id":"29a7f528-8f12-55a2-8a46-4af8183935b5","excerpt":"First Blog Next Blog","frontmatter":{"date":"February 13, 2019","title":"First Blog"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2778756830","3882232421"]}
